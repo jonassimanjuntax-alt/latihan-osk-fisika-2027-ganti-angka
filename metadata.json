@@ -1,0 +1,8 @@
+{
+  "name": "Mister Jo — Latihan OSK Fisika SMA",
+  "description": "Platform latihan interaktif Olimpiade Sains Nasional (OSN) Fisika SMA tingkat Kota/Kabupaten bersama Mister Jo, lengkap dengan pembahasan buku teks, diagram FBD, dan narator suara berbahasa Indonesia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
